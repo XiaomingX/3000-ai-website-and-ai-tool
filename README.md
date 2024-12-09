@@ -1,4 +1,4 @@
-# website-from-toolify
+# 3000-ai-website-and-ai-tool
  - 获取AI站点，以便构造导航站.
  - 你可以自己再清洗、分类和构建基础资料.
 
